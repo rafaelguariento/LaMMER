@@ -6,7 +6,7 @@ We are interested in undeerstand how resistance emerge and proliferate in popula
 
 ### Main research areas
 
-#### Prey defenses from predators 
+#### Defensive mechanisms prey would evolve to get away from predators 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
