@@ -22,4 +22,4 @@ The evolution of the resistence to pesticides is a major threat to food security
 
 ### Contact
 
-*contact*: [rafael.guariento@ufms.br]
+*Contact*: [rafael.guariento@ufms.br]
