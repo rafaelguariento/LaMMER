@@ -17,7 +17,7 @@ How prey individuals assess their environments and respond to varying conditions
 
 #### Development of resistance to pesticides 
 
-The evolution of the resistence to pesticides is a major threat to food security. We are also investigating the drivers of pesticide resistance development and proliferation using mathematical models. 
+The evolution of the resistence to pesticides is a major threat to food security. We are investigating the drivers of pesticide resistance development and proliferation in pest populations using mathematical models. We also investigate how evolutionary- and ecologically-informed management strategies can help mitigate the development of pesticide resistance.  
 
 
 ### Contact
