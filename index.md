@@ -1,4 +1,4 @@
-## Welcome to Guariento Lab website
+## Welcome to the Guariento Lab website
 
 We are based in the Federal University of Mato Grosso do Sul, Brazil: http://ufms.br
 
