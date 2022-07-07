@@ -13,38 +13,14 @@ We are interested in understand how resistance emerge and proliferate in populat
 
 #### Defensive mechanisms prey would evolve to get away from predators 
 
-How prey individuals assess their environments and respond to varying conditions is a crutial issue in Ecology. We investigate 
+How prey individuals assess their environments and respond to varying conditions is a crutial issue in Ecology. We investigate how prey respond to predators and how predation works as a selective force driving the prevalence of defended phenotypes in prey populations. We often look at the ecological consequences, from the individual to the ecosystem, emerging from prey responses to predators.  
 
 
-#### Developmnet of resistance to pesticides 
+#### Development of resistance to pesticides 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The evolution of the resistence to pesticides is a major threat to food security. We are also investigating the drivers of pesticide resistance development and proliferation using mathematical models. 
 
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafaelguariento/LaMMER/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*contact*: [rafael.guariento@ufms.br]
