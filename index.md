@@ -1,10 +1,12 @@
-## Welcome to the Guariento Lab website
+## Welcome to the Guariento Lab Website
 
 We are based in the Federal University of Mato Grosso do Sul, Brazil: http://ufms.br
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are interested in how resistance emerge and proliferate in populations. Such resistance may manifest in the form of defensive strategies/traits that prey may have against predators or traits that confer resistance to xenobiotics of pests and patogens.  
 
-### Markdown
+### Main research areas
+
+#### Prey defenses from predators 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
