@@ -1,7 +1,8 @@
-## Welcome to the Guariento Lab Website
+## Welcome to the Guariento Lab Website (LaMMER)
 
 
-<img src="https://yt3.ggpht.com/ytc/AKedOLS3ZozpNoeoUe-rdYzfV4vDonEDMmKfViEPA2T_=s900-c-k-c0x00ffffff-no-rj" alt="Rafael D Guariento" style="height: 180px; width:180px;"/>
+<img src="https://yt3.ggpht.com/ytc/AKedOLS3ZozpNoeoUe-rdYzfV4vDonEDMmKfViEPA2T_=s900-c-k-c0x00ffffff-no-rj" alt="Rafael D Guariento" style="height: 180px; width:180px;"/> (https://scholar.google.com.br/citations?user=3n8lKtcAAAAJ&hl=en)
+
 
 We are based in the Federal University of Mato Grosso do Sul, Brazil: **http://ufms.br**
 
