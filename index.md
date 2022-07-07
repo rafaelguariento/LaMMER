@@ -1,5 +1,7 @@
 ## Welcome to the Guariento Lab Website
 
+![Rafae_Guariento]([/assets/img/MarineGEO_logo.png](https://yt3.ggpht.com/ytc/AKedOLS3ZozpNoeoUe-rdYzfV4vDonEDMmKfViEPA2T_=s900-c-k-c0x00ffffff-no-rj) "Rafael D Guariento")
+
 We are based in the Federal University of Mato Grosso do Sul, Brazil: **http://ufms.br**
 
 We are interested in undeerstand how resistance emerge and proliferate in populations. Such resistance may manifest in the form of defensive strategies/traits that prey may have against predators or traits in pests or patogens that confer resistance to xenobiotics. *Our approach to such issues are mainly through theoretical methods, such as mathematical models and computer simulations.*
