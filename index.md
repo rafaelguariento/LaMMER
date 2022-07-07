@@ -1,6 +1,6 @@
 ## Welcome to the Guariento Lab Website
 
-![Rafae_Guariento]([/assets/img/MarineGEO_logo.png](https://yt3.ggpht.com/ytc/AKedOLS3ZozpNoeoUe-rdYzfV4vDonEDMmKfViEPA2T_=s900-c-k-c0x00ffffff-no-rj) "Rafael D Guariento")
+![Rafae_Guariento]([https://yt3.ggpht.com/ytc/AKedOLS3ZozpNoeoUe-rdYzfV4vDonEDMmKfViEPA2T_=s900-c-k-c0x00ffffff-no-rj] "Rafael D Guariento")
 
 We are based in the Federal University of Mato Grosso do Sul, Brazil: **http://ufms.br**
 
