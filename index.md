@@ -23,3 +23,9 @@ The evolution of the resistence to pesticides is a major threat to food security
 ### Contact
 
 *Contact*: [rafael.guariento@ufms.br]
+
+### Lab Members
+
+#### Gilberto Muniz-Junior (PhD candidate)
+
+Works with models to understande the evolution os pesticide resistance and proliferation
