@@ -8,6 +8,8 @@ The Lab. of Mathematical Modeling on the Evolution of Resistance (**LaMMER**) is
 
 We are interested in understand how resistance emerge and proliferate in populations. Such resistance may manifest in the form of defensive strategies/traits that prey may have against predators or traits in pests or patogens that confer resistance to xenobiotics. *Our approach to such issues is mainly through theoretical methods, such as **mathematical models** and **computer simulations**.*
 
+Some computational resources from our research can be foud [here].(https://github.com/rafaelguariento/)
+
 ### Main research areas
 
 #### Defensive mechanisms prey would evolve to get away from predators 
