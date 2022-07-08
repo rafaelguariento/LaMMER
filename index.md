@@ -28,4 +28,4 @@ The evolution of the resistence to pesticides is a major threat to food security
 
 #### Gilberto Muniz-Junior (PhD candidate)
 
-Develop mathematical models to understand the evolution os pesticide resistance and proliferation in nature. 
+Develop mathematical models to understand the evolution of pesticide resistance and proliferation of resistance in nature. 
