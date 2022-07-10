@@ -32,7 +32,7 @@ The evolution of the resistence to pesticides is a major threat to food security
 
 <img src="/gilberto_pic.png" alt="Gilberto Muniz-Junior" style="height: 180px; width:200px;"/>
 
-Develops mathematical models to understand the evolution of pesticide resistance and proliferation of resistance in nature. 
+* Develops mathematical models to understand the evolution of pesticide resistance and proliferation of resistance in nature. 
 
 ### Permanent Lab Members
 
@@ -40,10 +40,10 @@ Develops mathematical models to understand the evolution of pesticide resistance
 
 <img src="/nina.png" alt="Nina Guariento" style="height: 180px; width:220px;"/>
 
-Nina plays an important role in the Lab. She hardly sleeps at night, making us awake to think about science from dusk till dawn. 
+* Nina plays an important role in the Lab. She hardly sleeps at night, making us awake to think about science from dusk till dawn. 
 
 #### Arthur Felix Guariento
 
 <img src="/arthur.png" alt="Arthur Guariento" style="height: 200px; width:200px;"/>
-Arthur provides military-grade durability tests for all equipment, anyting he can throw up in the air. 
+* Arthur provides military-grade durability tests for all equipment, anyting he can throw up in the air. 
 
