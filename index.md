@@ -45,6 +45,6 @@ The evolution of the resistence to pesticides is a major threat to food security
 #### Arthur Felix Guariento
 
 <img src="/LaMMER/arthur.png" alt="Arthur Guariento" style="height: 200px; width:200px;"/>
-* Arthur provides military-grade durability tests for all equipment, anything he can throw up in the air. 
+* Arthur provides military-grade durability tests for all equipament, anything he can throw up in the air. 
 
 
