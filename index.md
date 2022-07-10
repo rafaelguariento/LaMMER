@@ -38,7 +38,7 @@ Develops mathematical models to understand the evolution of pesticide resistance
 
 #### Nina Felix Guariento
 
-<img src="/nina.png" alt="Nina Guariento" style="height: 180px; width:200px;"/>
+<img src="/nina.png" alt="Nina Guariento" style="height: 160px; width:220px;"/>
 
 Nina plays an important role in the Lab. She hardly sleeps at night, making us awake to think about science from dusk till dawn. 
 
