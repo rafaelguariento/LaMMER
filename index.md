@@ -36,11 +36,14 @@ Develops mathematical models to understand the evolution of pesticide resistance
 
 ### Permanent Lab Members
 
-#### Nina F. Guariento
+#### Nina Felix Guariento
+
+<img src="/nina.png" alt="Nina Guariento" style="height: 180px; width:200px;"/>
 
 Nina plays an important role in the Lab. She hardly sleeps at night, making us awake to think about science from dusk till dawn. 
 
-#### Arthur F. Guariento
+#### Arthur Felix Guariento
 
+<img src="/arthur.png" alt="Arthur Guariento" style="height: 200px; width:200px;"/>
 Arthur provides military-grade durability tests for all equipment, anyting he can throw up in the air. 
 
