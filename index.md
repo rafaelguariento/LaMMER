@@ -1,7 +1,7 @@
 ## Welcome to the **LaMMER** 
 
 
-<img src="https://yt3.ggpht.com/ytc/AKedOLS3ZozpNoeoUe-rdYzfV4vDonEDMmKfViEPA2T_=s900-c-k-c0x00ffffff-no-rj" alt="Rafael D Guariento" style="height: 180px; width:180px;"/> Rafael D. Guariento ( *PI* ) [**Google Scholar profile**](https://scholar.google.com.br/citations?hl=en&user=3n8lKtcAAAAJ&view_op=list_works&sortby=pubdate) / [CV](http://lattes.cnpq.br/1463776084744636)
+<img src="https://yt3.ggpht.com/ytc/AKedOLS3ZozpNoeoUe-rdYzfV4vDonEDMmKfViEPA2T_=s900-c-k-c0x00ffffff-no-rj" alt="Rafael D Guariento" style="height: 180px; width:180px;"/> Rafael D. Guariento ( *PI* ) [**Google Scholar profile**](https://scholar.google.com.br/citations?hl=en&user=3n8lKtcAAAAJ&view_op=list_works&sortby=pubdate) / [**CV**](http://lattes.cnpq.br/1463776084744636)
 
 
 The Lab. of Mathematical Modeling on the Evolution of Resistance (**LaMMER**) is based at the [**Federal University of Mato Grosso do Sul, Brazil**](http://ufms.br)
