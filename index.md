@@ -28,6 +28,12 @@ The evolution of the resistence to pesticides is a major threat to food security
 
 ### Lab Members
 
+#### Eduardo Cerqueira e Silva (Master of Science candidate)
+
+<img src="/LaMMER/DuduFoz.png" alt="Eduardo Cerqueira e Silva" style="height: 180px; width:200px;"/>
+
+* Develops mathematical models to understand how Niche Theory can predict the prevalence of resistent pest in agricultural ecosystems. 
+
 #### Gilberto Muniz-Junior (PhD candidate)
 
 <img src="/LaMMER/gilberto.png" alt="Gilberto Muniz-Junior" style="height: 180px; width:200px;"/>
